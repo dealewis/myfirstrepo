@@ -6,5 +6,5 @@ This is a change that I made on another machine and I pushed the change to GitHu
 
 This is the final README message from my local machine
 - modify code
-- save code with a message
+- save code with a message (ctrl +s, mac cmd + s)
 - push the repo to the remote (GitHub)
